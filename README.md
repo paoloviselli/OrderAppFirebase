@@ -1,3 +1,3 @@
 # OrderAppFirebase
 
-Run the comand 'npm run' to run the app
+Run the command 'npm run' to run the app
